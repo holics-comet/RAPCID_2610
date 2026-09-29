@@ -1,0 +1,24 @@
+{
+  "rapcid_backbone": {
+    "dialect": 2,
+    "input": "/home01/a2149a01/RAPCID_2610/inputs/6M4U_mod.pdb",
+    "contig": "20-40, E83, 20-40, /0, 20-40, F2105, 20-40",
+    "ligand": "RAP",
+    "allow_ligand_on_existing_chain": true,
+    "infer_ori_strategy": "com",
+    "is_non_loopy": true,
+    "plddt_enhanced": true,
+    "select_hotspots": {
+      "RAP": "O2,O3,C5,C21,C45,C49,C50"
+    },
+    "select_buried": {
+      "RAP": "O2,C3,C4,C5,O3,C13,C18,C19,C20,C21,C22,C23,C24,C36,C38,C41,C43,C44,C45,C46,C47,C48,C49,C50,O6,O10,O11"
+    },
+    "select_partially_buried": {
+      "RAP": "C42,C51,C52,O7,O8,O12,O13"
+    },
+    "select_exposed": {
+      "RAP": "C40,O9"
+    }
+  }
+}
