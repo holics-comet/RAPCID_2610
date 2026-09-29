@@ -2,9 +2,8 @@
   "rapcid_backbone": {
     "dialect": 2,
     "input": "/home01/a2149a01/RAPCID_2610/inputs/6M4U_mod.pdb",
-    "contig": "20-40, E83, 20-40, /0, 20-40, F2105, 20-40",
+    "contig": "20-40,E83,20-40,/0,20-40,F2105,20-40",
     "ligand": "RAP",
-    "allow_ligand_on_existing_chain": true,
     "infer_ori_strategy": "com",
     "is_non_loopy": true,
     "plddt_enhanced": true,
