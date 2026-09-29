@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs
+*.out
+*.err
+*.log
+
+# Temporary
+*.tmp
+*.swp
+.DS_Store
