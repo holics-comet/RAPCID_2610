@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH -J RAPCID_backbone
-#SBATCH -p amd_h200nv_8
+#SBATCH -p amd_a200nv_8
 #SBATCH --gres=gpu:1
 #SBATCH --cpus-per-task=4
 #SBATCH --mem=32G

@@ -1,0 +1,4 @@
+group,input_count,analysis_errors,hard_pass_count,hard_pass_fraction,selected_count,selected_directory
+backbone_denovo,2000,0,574,0.287,411,/scratch/a2149a01/RAPCID_2610_output/backbone_filtered/backbone_denovo
+backbone_long,2000,0,322,0.161,322,/scratch/a2149a01/RAPCID_2610_output/backbone_filtered/backbone_long
+backbone,2000,0,267,0.1335,267,/scratch/a2149a01/RAPCID_2610_output/backbone_filtered/backbone
